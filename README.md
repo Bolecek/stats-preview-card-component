@@ -32,3 +32,4 @@ Users should be able to:
 - CSS
 - Flexbox
 - CSS Grid
+- Media Queries
